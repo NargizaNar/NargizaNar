@@ -1,6 +1,6 @@
 ### Hi there, I am Nargiza  👋
 I'm a Webdev-student,[ Digital Career Institute (DCI), ](https://digitalcareerinstitute.org/) Germany.
-
+https://user-images.githubusercontent.com/110910761/229488146-5fe01e6f-8aeb-4b6f-a37d-06bfc6a206e9.png
 ### I am learning new Skills![image](https://user-images.githubusercontent.com/110910761/229487910-45658ef7-e469-4bc0-b6f0-ef3902b871a7.png)
 ###### ✨ Since August 2022, I have already learnt some basics ✨: 
 ![image](https://user-images.githubusercontent.com/110910761/229488657-c07dc074-e282-4975-ba72-22dfd098bf3d.png)
