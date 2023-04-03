@@ -9,16 +9,6 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
         <!-- Cat walking GIF from: http://www.anniemation.com/clip_art/graphics.html -->
         <img id="cat" src="https://www.kasandbox.org/programming-images/misc/cat-walk.gif">
 </div>
-   
-    <div style ={{   
-    "width:" "50px",
-    height: "50px",
-    -webkit-border-radius: "25px",
-    -moz-border-radius: "25px",
-    border-radius: "25px",
-    background: "yellow"}}></div>
-   
-
 
 ### I am learning new Skills![image](https://user-images.githubusercontent.com/110910761/229487910-45658ef7-e469-4bc0-b6f0-ef3902b871a7.png)
 
