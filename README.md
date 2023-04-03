@@ -33,7 +33,11 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
 ## How to reach me: ...
 📫 Email: nargiza.nf2020@gmail.com
 
-📫 https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/
+
+LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-NargizaN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/)](https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/)
+
+Gmail: [![Gmail Badge](https://img.shields.io/badge/-nargiza.nf2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nargiza.nf2020@gmail.com)](mailto:nargiza.nf2020@gmail.com) 
+
 ## Github Stats and Activity
 <!--
 **NargizaNar/NargizaNar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
