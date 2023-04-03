@@ -11,11 +11,11 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
 </div>
 <div style="
   position: relative;
-  background-color: #09f;
+  background-color: yellow;
   margin: 20px auto;
   width: 400px;
   height: 400px;
-  border-radius: 200px;"> hi
+  border-radius: 200px;">
 
   </div>
 
