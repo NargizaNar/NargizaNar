@@ -9,28 +9,14 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
         <!-- Cat walking GIF from: http://www.anniemation.com/clip_art/graphics.html -->
         <img id="cat" src="https://www.kasandbox.org/programming-images/misc/cat-walk.gif">
 </div>
-    <style>
-      .circleBase {
-        border-radius: 50%;
-      }
-      .circle1 {
-        width: 100px;
-        height: 100px;
-        background: #4bc475;
-        border: 1px solid #000;
-      }
-      .circle2 {
-        width: 150px;
-        height: 150px;
-        background: #a1a1a1;
-        border: 1px solid #000;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="circleBase circle1"></div>
-    <div class="circleBase circle2"></div>
-  </body>
+   
+    <div class="circleBase circle1" style ={{   width: 50px;
+            height: 50px;
+            -webkit-border-radius: 25px;
+            -moz-border-radius: 25px;
+            border-radius: 25px;
+            background: blue;}}></div>
+   
 
 
 ### I am learning new Skills![image](https://user-images.githubusercontent.com/110910761/229487910-45658ef7-e469-4bc0-b6f0-ef3902b871a7.png)
