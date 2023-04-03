@@ -31,12 +31,14 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
 ![image](https://user-images.githubusercontent.com/110910761/229488187-626d2d61-fd31-43b8-ba2b-9ce2a254d139.png) German(C1)
 
 ## 📫 How to reach me: ...
+ [![Linkedin Badge](https://img.shields.io/badge/-NargizaN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/)](https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/)
 
-LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-NargizaN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/)](https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/)
-
-Gmail: [![Gmail Badge](https://img.shields.io/badge/-nargiza.nf2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nargiza.nf2020@gmail.com)](mailto:nargiza.nf2020@gmail.com) 
+ [![Gmail Badge](https://img.shields.io/badge/-nargiza.nf2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nargiza.nf2020@gmail.com)](mailto:nargiza.nf2020@gmail.com) 
 
 ## Github Stats and Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=NargizaNar&theme=vue-dark&border_radius=10.6)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NargizaNar&theme=vue-dark&show_icons=true)](https://github.com/NargizaNar/github-readme-stats)
 <!--
 **NargizaNar/NargizaNar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
