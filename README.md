@@ -11,12 +11,12 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
 </div>
    
     <div style ={{   
-    width: "50px";
-    height: "50px";
-    -webkit-border-radius: "25px";
-    -moz-border-radius: "25px";
-    border-radius: "25px";
-    background: "yellow";}}></div>
+    width: "50px",
+    height: "50px",
+    -webkit-border-radius: "25px",
+    -moz-border-radius: "25px",
+    border-radius: "25px",
+    background: "yellow"}}></div>
    
 
 
