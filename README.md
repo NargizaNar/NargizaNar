@@ -9,7 +9,9 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
         <!-- Cat walking GIF from: http://www.anniemation.com/clip_art/graphics.html -->
         <img id="cat" src="https://www.kasandbox.org/programming-images/misc/cat-walk.gif">
 </div>
-<div style="backgroundColor: red; width: 80%; border: solid 2px orange; border-radius: 25%;"></div>
+<svg xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="50" fill="red" />
+</svg>
 
 ### I am learning new Skills![image](https://user-images.githubusercontent.com/110910761/229487910-45658ef7-e469-4bc0-b6f0-ef3902b871a7.png)
 
