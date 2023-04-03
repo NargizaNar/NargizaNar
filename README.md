@@ -10,12 +10,13 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
         <img id="cat" src="https://www.kasandbox.org/programming-images/misc/cat-walk.gif">
 </div>
    
-    <div class="circleBase circle1" style ={{   width: 50px;
-            height: 50px;
-            -webkit-border-radius: 25px;
-            -moz-border-radius: 25px;
-            border-radius: 25px;
-            background: blue;}}></div>
+    <div style ={{   
+    width: "50px";
+    height: "50px";
+    -webkit-border-radius: "25px";
+    -moz-border-radius: "25px";
+    border-radius: "25px";
+    background: "yellow";}}></div>
    
 
 
