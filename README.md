@@ -14,8 +14,8 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
   vertical-align: middle;
   width: 10px;
   height: 10px;
-  background-color: white;
-  border: solid 1px black;
+  background-color: yellow;
+  border: solid 1px orange;
   border-radius: 50%;
   position: absolute;
   top: -6px;
