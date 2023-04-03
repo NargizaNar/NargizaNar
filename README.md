@@ -4,7 +4,7 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
         <!-- Cat walking GIF from: http://www.anniemation.com/clip_art/graphics.html -->
         <img id="cat" src="https://www.kasandbox.org/programming-images/misc/cat-walk.gif">
     </div>
-    https://media4.giphy.com/media/opbCk4S6z52nUd69AA/giphy.gif?cid=ecf05e47h1ag7we5e6a5sqxisltkwnv44pv7z0shl700uij6&rid=giphy.gif&ct=g
+
 
 ### I am learning new Skills![image](https://user-images.githubusercontent.com/110910761/229487910-45658ef7-e469-4bc0-b6f0-ef3902b871a7.png)
 
