@@ -24,7 +24,7 @@ I'm a Webdev-student,[ Digital Career Institute (DCI), ](https://digitalcareerin
 ![image](https://user-images.githubusercontent.com/110910761/229488146-5fe01e6f-8aeb-4b6f-a37d-06bfc6a206e9.png) English (C2)
 ![image](https://user-images.githubusercontent.com/110910761/229488187-626d2d61-fd31-43b8-ba2b-9ce2a254d139.png) German(C1)
 
-- 📫 How to reach me: ...
+## How to reach me: ...
 📫 Email: nargiza.nf2020@gmail.com
 
 📫 https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/
