@@ -32,7 +32,7 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
 
 ## I speak: 
 
- - 🇱🇷 English
+ - 🇱🇷 English (C2)
  - 🇩🇪 German(C1)
 
 ## 📫 How to reach me: 
