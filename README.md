@@ -38,7 +38,7 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
 ## Github Stats and Activity
 [![GitHub Streak](https://streak-stats.demolab.com?user=NargizaNar&theme=vue-dark&border_radius=10.6)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NargizaNar&theme=vue-dark&show_icons=true)](https://github.com/NargizaNar/github-readme-stats)
+[![Nargiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=NargizaNar&theme=vue-dark&show_icons=true)](https://github.com/NargizaNar/github-readme-stats)
 <!--
 **NargizaNar/NargizaNar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
