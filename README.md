@@ -1,5 +1,5 @@
 ### Hi there, I am Nargiza  👋
-I'm a Webdev-student,[ Digital Career Institute (DCI), ](https://digitalcareerinstitute.org/) Germany. I like to learn new things. 
+I'm a Webdev-student,[ Digital Career Institute (DCI), ](https://digitalcareerinstitute.org/) Germany.
 
 ### I am learning new Skills![image](https://user-images.githubusercontent.com/110910761/229487910-45658ef7-e469-4bc0-b6f0-ef3902b871a7.png)
 ###### I have already learnt some basics: 
@@ -11,7 +11,7 @@ I'm a Webdev-student,[ Digital Career Institute (DCI), ](https://digitalcareerin
 ![image](https://user-images.githubusercontent.com/110910761/229488893-30978de9-f068-42fc-a408-040c555c87e8.png)
 ![image](https://user-images.githubusercontent.com/110910761/229488929-4b80e2be-7d93-4080-8be7-0e617c34a20c.png)
 ![image](https://user-images.githubusercontent.com/110910761/229488956-31dcf961-49b1-4949-a048-bd80b8b6851c.png)
-![image](https://user-images.githubusercontent.com/110910761/229487329-3f661a31-53db-4bae-b309-541e23f3b41d.png)
+
 
 ##### 🌱 I’m currently learning ...
 
