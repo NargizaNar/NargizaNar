@@ -7,9 +7,9 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
 
 <div>
         <!-- Cat walking GIF from: http://www.anniemation.com/clip_art/graphics.html -->
-        <div style={{borderRadius: "50%", color: "yellow"}}
+        <div style={{borderRadius: "50%", backgroundColor: "yellow", width: "2rem"}}  </div>
         <img id="cat" src="https://www.kasandbox.org/programming-images/misc/cat-walk.gif">
-        </div>
+       
     </div>
 
 
