@@ -22,7 +22,6 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
 ![image](https://user-images.githubusercontent.com/110910761/229488929-4b80e2be-7d93-4080-8be7-0e617c34a20c.png)
 ![image](https://user-images.githubusercontent.com/110910761/229488956-31dcf961-49b1-4949-a048-bd80b8b6851c.png)
 
-https://cdn.dribbble.com/users/537941/screenshots/7129894/media/a87a4a5fc3f5d27aea080436520a0d00.mp4
 ##### 🌱 I’m currently learning ...
 
 ![image](https://user-images.githubusercontent.com/110910761/229489259-80064e68-0316-4e66-b971-9c1b471b17ca.png)
