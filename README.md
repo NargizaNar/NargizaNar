@@ -26,7 +26,7 @@ I'm a Webdev-student,[ Digital Career Institute (DCI), ](https://digitalcareerin
 
 - 📫 How to reach me: ...
 https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/
-https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrkIwhpAeSDya3U3otcd1DA%3D%3D
+
 <!--
 **NargizaNar/NargizaNar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
