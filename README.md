@@ -25,9 +25,9 @@ I'm a Webdev-student,[ Digital Career Institute (DCI), ](https://digitalcareerin
 ![image](https://user-images.githubusercontent.com/110910761/229488187-626d2d61-fd31-43b8-ba2b-9ce2a254d139.png) German(C1)
 
 - 📫 How to reach me: ...
-Email: nargiza.nf2020@gmail.com
+📫 Email: nargiza.nf2020@gmail.com
 
-https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/
+📫 https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/
 
 <!--
 **NargizaNar/NargizaNar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
