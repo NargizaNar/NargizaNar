@@ -1,5 +1,5 @@
 ### Hi there, I am Nargiza  👋
-I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://digitalcareerinstitute.org/), Germany.
+I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://digitalcareerinstitute.org/) Germany.
 
 ### I am learning new Skills![image](https://user-images.githubusercontent.com/110910761/229487910-45658ef7-e469-4bc0-b6f0-ef3902b871a7.png)
 
