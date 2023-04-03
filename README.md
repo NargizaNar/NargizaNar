@@ -2,7 +2,7 @@
 I'm a Webdev-student,[ Digital Career Institute (DCI), ](https://digitalcareerinstitute.org/) Germany. I like to learn new things. 
 
 ### I am learning new Skills![image](https://user-images.githubusercontent.com/110910761/229487910-45658ef7-e469-4bc0-b6f0-ef3902b871a7.png)
-## I have learnt the basics: 
+###### I have already learnt some basics: 
 ![image](https://user-images.githubusercontent.com/110910761/229488657-c07dc074-e282-4975-ba72-22dfd098bf3d.png)
 ![image](https://user-images.githubusercontent.com/110910761/229488689-4629002a-ae97-4418-825b-e6dcd1a49842.png)
 ![image](https://user-images.githubusercontent.com/110910761/229488728-302196ca-e82c-4191-9014-9b13320a4483.png)
@@ -13,7 +13,7 @@ I'm a Webdev-student,[ Digital Career Institute (DCI), ](https://digitalcareerin
 ![image](https://user-images.githubusercontent.com/110910761/229488956-31dcf961-49b1-4949-a048-bd80b8b6851c.png)
 ![image](https://user-images.githubusercontent.com/110910761/229487329-3f661a31-53db-4bae-b309-541e23f3b41d.png)
 
-## 🌱 I’m currently learning ...
+##### 🌱 I’m currently learning ...
 
 ![image](https://user-images.githubusercontent.com/110910761/229489259-80064e68-0316-4e66-b971-9c1b471b17ca.png)
 ![image](https://user-images.githubusercontent.com/110910761/229489279-fdb2183b-21e3-45df-b32f-d7fc10bfe8ae.png)
@@ -26,8 +26,6 @@ I'm a Webdev-student,[ Digital Career Institute (DCI), ](https://digitalcareerin
 
 - 📫 How to reach me: ...
 https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/
-
-![image](https://user-images.githubusercontent.com/110910761/229489589-3b6e06ad-a104-4bde-af3d-10a3839c0b01.png)
 
 <!--
 **NargizaNar/NargizaNar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
