@@ -10,16 +10,12 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
         <img id="cat" src="https://www.kasandbox.org/programming-images/misc/cat-walk.gif">
 </div>
 <div style="
-        display: inline-block;
-  vertical-align: middle;
-  width: 10px;
-  height: 10px;
-  background-color: yellow;
-  border: solid 1px orange;
-  border-radius: 50%;
-  position: absolute;
-  top: -6px;
-  left: calc(50% - 5px);">
+  position: relative;
+  background-color: #09f;
+  margin: 20px auto;
+  width: 400px;
+  height: 400px;
+  border-radius: 200px;"> hi
 
   </div>
 
