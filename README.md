@@ -5,7 +5,7 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&weight=700&size=25&pause=1000&color=7353BD&width=435&lines=I+am+happy+to+see+you+here!; Ich+bin+froh, Sie+zu+sehen!" alt="Typing SVG" /></a>
 
 
-<div style="backgroundColor: yellow; border: solid 2px orange; border-radius: 25%;">
+<div style="backgroundColor: yellow; width: 30%; border: solid 2px orange; border-radius: 25%;">
         <!-- Cat walking GIF from: http://www.anniemation.com/clip_art/graphics.html -->
         <img id="cat" src="https://www.kasandbox.org/programming-images/misc/cat-walk.gif">
 </div>
