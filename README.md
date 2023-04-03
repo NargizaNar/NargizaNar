@@ -13,7 +13,7 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
 
 <div>
            <!-- Animated dribble-->
-    <img id="chudo" src=https://cdn.dribbble.com/users/537941/screenshots/7129894/media/a87a4a5fc3f5d27aea080436520a0d00.mp4>
+    <img id="chudo" src="https://cdn.dribbble.com/users/537941/screenshots/7129894/media/a87a4a5fc3f5d27aea080436520a0d00.mp4">
 </div>
 
 
