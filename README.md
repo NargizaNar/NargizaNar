@@ -2,7 +2,7 @@
 I'm a Webdev-student,[ Digital Career Institute (DCI), ](https://digitalcareerinstitute.org/) Germany.
 
 ### I am learning new Skills![image](https://user-images.githubusercontent.com/110910761/229487910-45658ef7-e469-4bc0-b6f0-ef3902b871a7.png)
-###### Since August 2022, I have already learnt some basics: 
+###### ✨ Since August 2022, I have already learnt some basics: 
 ![image](https://user-images.githubusercontent.com/110910761/229488657-c07dc074-e282-4975-ba72-22dfd098bf3d.png)
 ![image](https://user-images.githubusercontent.com/110910761/229488689-4629002a-ae97-4418-825b-e6dcd1a49842.png)
 ![image](https://user-images.githubusercontent.com/110910761/229488728-302196ca-e82c-4191-9014-9b13320a4483.png)
@@ -21,7 +21,7 @@ I'm a Webdev-student,[ Digital Career Institute (DCI), ](https://digitalcareerin
 
 ## I speak: 
 
-![image](https://user-images.githubusercontent.com/110910761/229488146-5fe01e6f-8aeb-4b6f-a37d-06bfc6a206e9.png) English
+![image](https://user-images.githubusercontent.com/110910761/229488146-5fe01e6f-8aeb-4b6f-a37d-06bfc6a206e9.png) English (C2)
 ![image](https://user-images.githubusercontent.com/110910761/229488187-626d2d61-fd31-43b8-ba2b-9ce2a254d139.png) German(C1)
 
 - 📫 How to reach me: ...
