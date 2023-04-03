@@ -10,6 +10,13 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
         <img id="cat" src="https://www.kasandbox.org/programming-images/misc/cat-walk.gif">
 </div>
 
+
+<div>
+           <!-- Animated dribble-->
+    <img id="chudo" src=https://cdn.dribbble.com/users/537941/screenshots/7129894/media/a87a4a5fc3f5d27aea080436520a0d00.mp4>
+</div>
+
+
 ### I am learning new Skills![image](https://user-images.githubusercontent.com/110910761/229487910-45658ef7-e469-4bc0-b6f0-ef3902b871a7.png)
 
 ###### ✨ Since August 2022, I have already learnt some basics ✨: 
