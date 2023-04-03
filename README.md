@@ -5,16 +5,7 @@ I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://di
         <img id="cat" src="https://www.kasandbox.org/programming-images/misc/cat-walk.gif">
     </div>
     
-  <script>
-  var catEl = document.getElementById("cat");
-  
-  var startTime = new Date().getTime();
-  var walkTheCat = function() {
-      var currTime = new Date().getTime();
-      var secondsElapsed = ((currTime - startTime)/1000);
-  };
-  walkTheCat();
-  </script>
+
 ### I am learning new Skills![image](https://user-images.githubusercontent.com/110910761/229487910-45658ef7-e469-4bc0-b6f0-ef3902b871a7.png)
 
 ###### ✨ Since August 2022, I have already learnt some basics ✨: 
