@@ -1,5 +1,5 @@
 ### Hi there, I am Nargiza  👋
-I am a Full-Stack-Webdev-Student, [ Digital Career Institute (DCI), ](https://digitalcareerinstitute.org/) Germany.
+I am learning Full-Stack-Webdevelopment, [ Digital Career Institute (DCI), ](https://digitalcareerinstitute.org/) Germany.
 
 <!-- link for this crazy Typing-Shit: https://readme-typing-svg.demolab.com/demo/-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&weight=700&size=25&pause=1000&color=7353BD&width=435&lines=I+am+happy+to+see+you+here!; Ich+bin+froh, Sie+zu+sehen!" alt="Typing SVG" /></a>
