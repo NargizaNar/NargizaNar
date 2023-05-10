@@ -40,7 +40,7 @@ I am learning Full-Stack-Webdevelopment, [ Digital Career Institute (DCI), ](htt
 ## I speak: 
 
  - 🇱🇷 English (C2)
- - 🇩🇪 German(C1)
+ - 🇩🇪 German(learning C1)
 
 ## 📫 How to reach me: 
  [![Linkedin Badge](https://img.shields.io/badge/-NargizaN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/)](https://www.linkedin.com/in/nargiza-nizamedinkhodjayeva-85267122/)
