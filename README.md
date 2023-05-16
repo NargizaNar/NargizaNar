@@ -35,7 +35,7 @@ I am learning Full-Stack-Webdevelopment, [ Digital Career Institute (DCI), ](htt
 
 ![image](https://user-images.githubusercontent.com/110910761/229489259-80064e68-0316-4e66-b971-9c1b471b17ca.png)
 ![image](https://user-images.githubusercontent.com/110910761/229489279-fdb2183b-21e3-45df-b32f-d7fc10bfe8ae.png)
-
+![image](https://camo.githubusercontent.com/392fa71fd2737088b6d21ba33f3d2fb6e1ac7c61142cdbe56c1d688ecf781ab8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462)
 
 ## I speak: 
 
